@@ -8,7 +8,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("https://github.com/SamMasca7950/Capstone/blob/main/background.jpg");
+        background-image: url("https://www.perfectcellar.com/cdn/shop/articles/Fine_Wine_and_Regular_Wine.jpg?v=1643119025&width=1500");
         background-size: cover;
         background-position: center;
     }
