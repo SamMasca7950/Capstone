@@ -2,13 +2,13 @@ import streamlit as st
 import pandas as pd
 from predict import predict
 
-st.set_page_config(layout="wide", page_title="Wine Quality Prediction App")
+st.set_page_config(layout="centered", page_title="Wine Quality Prediction App")
 
 st.markdown(
     """
     <style>
     .stApp {
-        background-color: #011839;
+        background-color: #fefbd8;
     }
     </style>
     """,
