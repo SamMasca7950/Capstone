@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from predict import predict
 
-st.set_page_config(layout="right", page_title="Wine Quality Prediction App")
+st.set_page_config(layout="centered", page_title="Wine Quality Prediction App")
 
 st.markdown(
     """
