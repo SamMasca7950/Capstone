@@ -8,7 +8,9 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-color: #fefbd8;
+        background-image: url("https://github.com/SamMasca7950/Capstone/blob/main/background.jpg");
+        background-size: cover;
+        background-position: center;
     }
     </style>
     """,
