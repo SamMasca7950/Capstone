@@ -8,7 +8,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("https://www.perfectcellar.com/cdn/shop/articles/Fine_Wine_and_Regular_Wine.jpg?v=1643119025&width=1500");
+        background-image: url("https://anestisxasapotaverna.gr/wp-content/uploads/2021/12/ARTICLE-3.jpg");
         background-size: cover;
         background-position: center;
     .stExpander .markdown-text-container {
