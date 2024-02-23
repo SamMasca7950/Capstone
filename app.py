@@ -8,7 +8,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("https://t4.ftcdn.net/jpg/01/24/74/35/360_F_124743531_behZqmLE9cwSVybutXuMLp6LGFcNFBph.jpg");
+        background-image: url("https://images.stockfreeimages.com/2829/sfi226w/28295206.jpg");
         background-size: cover;
         background-position: center;
     .stExpander .markdown-text-container {
