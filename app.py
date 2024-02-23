@@ -32,8 +32,8 @@ with st.expander("### About this app"):
     st.write('')
     st.markdown(
         '''
-        This app utilize a machine learning model to predict wine quality based on physiochemial properties.
-        Use the sliders to enter the information before clicking on Predict.
+        This app utilizes a machine learning model to predict wine quality based on physiochemial properties.
+        Please, use the sliders to enter the information before clicking on Predict button.
          ''')
 
 st.write('### Enter the information from your wine.' )
