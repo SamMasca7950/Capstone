@@ -2,8 +2,22 @@ import streamlit as st
 import pandas as pd
 from predict import predict
 
+st.set_page_config(layout="wide", page_title="Wine Quality Prediction App")
+
+st.markdown(
+    """
+    <style>
+    .stApp {
+        background-color: #011839;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 # Title for your app
 st.title('#🍷 Wine Quality Prediction App')
+
 
 with st.expander("### About this app"):
     st.write('')
