@@ -8,7 +8,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("https://anestisxasapotaverna.gr/wp-content/uploads/2021/12/ARTICLE-3.jpg");
+        background-image: url("https://t4.ftcdn.net/jpg/01/24/74/35/360_F_124743531_behZqmLE9cwSVybutXuMLp6LGFcNFBph.jpg");
         background-size: cover;
         background-position: center;
     .stExpander .markdown-text-container {
