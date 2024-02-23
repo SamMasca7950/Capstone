@@ -11,6 +11,13 @@ st.markdown(
         background-image: url("https://www.perfectcellar.com/cdn/shop/articles/Fine_Wine_and_Regular_Wine.jpg?v=1643119025&width=1500");
         background-size: cover;
         background-position: center;
+    .stExpander .markdown-text-container {
+        font-weight: bold;
+        color: #000;
+    .stSlider label {
+        font-weight: bold;
+        color: #000;
+    
     }
     </style>
     """,
