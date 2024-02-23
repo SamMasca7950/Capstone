@@ -45,6 +45,22 @@ input_features = {
     
 }
 
+st.markdown(
+    """
+    <style>
+    .stButton>button {
+        color: #BA144C;
+        border: 2px solid #1A1919;
+        background-color: #F4DDE5;
+    }
+    .stButton>button:hover {
+        background-color: #F7F6CB;
+        border-color: #A4222F;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
 if st.button('Predict'):
     input_df = pd.DataFrame([input_features])
