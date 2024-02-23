@@ -60,7 +60,7 @@ st.markdown(
     .stButton>button {
         font-size: 16px;
         padding: 10px 24px;
-        color: #BA144C;
+        color: #151414;
         border: 2px solid #1A1919;
         background-color: #F4DDE5;
     }
